@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<RootNamespace>Cirreum.Communications.Sms</RootNamespace>
+		<Description>An Sms Library for Azure Communication Services.</Description>
+		<PackageTags>cirreum;communications;sms;azure;acs</PackageTags>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Azure.Communication.Sms" Version="1.0.2" />
+		<PackageReference Include="Azure.Identity" Version="1.13.2" />
+		<PackageReference Include="libphonenumber-csharp.extensions" Version="9.0.21" />
+		<PackageReference Include="Cirreum.Communications.Sms" Version="1.0.104" />
+		<PackageReference Include="Cirreum.ServiceProvider" Version="1.0.5" />
+		<PackageReference Include="Cirreum.Startup" Version="1.0.106" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Using Include="Azure.Communication.Sms" />
+		<Using Include="Azure.Identity" />
+	</ItemGroup>
+
+</Project>
