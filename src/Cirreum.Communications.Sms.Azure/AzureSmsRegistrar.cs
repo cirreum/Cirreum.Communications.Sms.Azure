@@ -22,7 +22,7 @@ public sealed class AzureSmsRegistrar() :
 	public override ProviderType ProviderType => ProviderType.Communications;
 
 	/// <inheritdoc/>
-	public override string ProviderName => "Azure";
+	public override string ProviderName => "Sms.Azure";
 
 	/// <inheritdoc/>
 	public override string[] ActivitySourceNames { get; } = ["Azure.Communication.*", "Azure.Core.*"];

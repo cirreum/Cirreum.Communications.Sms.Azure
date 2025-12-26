@@ -89,7 +89,7 @@ builder.AddAzureSmsClient("default", settings => {
 {
   "ServiceProviders": {
     "Communications": {
-      "Azure": {
+      "Sms.Azure": {
         "Instances": {
           "default": {
             "ConnectionString": "endpoint=https://...;accesskey=...",
