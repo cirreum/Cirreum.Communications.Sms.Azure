@@ -12,7 +12,7 @@
 		<PackageReference Include="libphonenumber-csharp.extensions" Version="9.0.22" />
 		<PackageReference Include="Cirreum.Communications.Sms" Version="1.0.105" />
 		<PackageReference Include="Cirreum.ServiceProvider" Version="1.0.7" />
-		<PackageReference Include="Cirreum.Startup" Version="1.0.107" />
+		<PackageReference Include="Cirreum.Startup" Version="1.0.108" />
 	</ItemGroup>
 
 	<ItemGroup>
