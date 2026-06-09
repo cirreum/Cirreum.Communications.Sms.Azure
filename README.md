@@ -3,7 +3,7 @@
 [![NuGet Version](https://img.shields.io/nuget/v/Cirreum.Communications.Sms.Azure.svg?style=flat-square&labelColor=1F1F1F&color=003D8F)](https://www.nuget.org/packages/Cirreum.Communications.Sms.Azure/)
 [![NuGet Downloads](https://img.shields.io/nuget/dt/Cirreum.Communications.Sms.Azure.svg?style=flat-square&labelColor=1F1F1F&color=003D8F)](https://www.nuget.org/packages/Cirreum.Communications.Sms.Azure/)
 [![GitHub Release](https://img.shields.io/github/v/release/cirreum/Cirreum.Communications.Sms.Azure?style=flat-square&labelColor=1F1F1F&color=FF3B2E)](https://github.com/cirreum/Cirreum.Communications.Sms.Azure/releases)
-[![License](https://img.shields.io/github/license/cirreum/Cirreum.Communications.Sms.Azure?style=flat-square&labelColor=1F1F1F&color=F2F2F2)](https://github.com/cirreum/Cirreum.Communications.Sms.Azure/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-F2F2F2?style=flat-square&labelColor=1F1F1F)](https://github.com/cirreum/Cirreum.Communications.Sms.Azure/blob/main/LICENSE)
 [![.NET](https://img.shields.io/badge/.NET-10.0-003D8F?style=flat-square&labelColor=1F1F1F)](https://dotnet.microsoft.com/)
 
 **A robust, production-ready SMS library for Azure Communication Services integration in .NET applications.**
