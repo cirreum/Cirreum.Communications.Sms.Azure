@@ -9,7 +9,7 @@
 	<ItemGroup>
 		<PackageReference Include="Azure.Communication.Sms" Version="1.0.2" />
 		<PackageReference Include="Azure.Identity" Version="1.21.0" />
-		<PackageReference Include="libphonenumber-csharp.extensions" Version="9.0.32" />
+		<PackageReference Include="libphonenumber-csharp.extensions" Version="9.0.34" />
 		<PackageReference Include="Cirreum.Communications.Sms" Version="1.0.108" />
 		<PackageReference Include="Cirreum.ServiceProvider" Version="1.0.19" />
 		<PackageReference Include="Cirreum.Startup" Version="1.0.117" />
